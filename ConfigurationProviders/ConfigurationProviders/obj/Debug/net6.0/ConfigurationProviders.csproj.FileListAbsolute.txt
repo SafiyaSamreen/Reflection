@@ -1,0 +1,12 @@
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\bin\Debug\net6.0\ConfigurationProviders.deps.json
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\bin\Debug\net6.0\ConfigurationProviders.dll
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\bin\Debug\net6.0\ConfigurationProviders.pdb
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.csproj.AssemblyReference.cache
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.AssemblyInfoInputs.cache
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.AssemblyInfo.cs
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.csproj.CoreCompileInputs.cache
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.dll
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\refint\ConfigurationProviders.dll
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ConfigurationProviders.pdb
+C:\Users\UX507919\source\repos\ConfigurationProviders\ConfigurationProviders\obj\Debug\net6.0\ref\ConfigurationProviders.dll
